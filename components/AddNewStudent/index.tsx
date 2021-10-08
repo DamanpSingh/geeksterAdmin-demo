@@ -18,7 +18,7 @@ const AddNewStudent: React.FC<Props> = ({ }) => {
 
     useEffect(() => {
         //Call API to send data
-        console.log(submitFormData);
+        // console.log(submitFormData);
     }, [submitFormData])
 
     return (
