@@ -1,0 +1,182 @@
+.icon-rupee {
+  background-image: url('/icons/rupee.svg');
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  top: 1px;
+  position: relative;
+}
+
+.icon-time {
+  background-image: url('/icons/time.svg');
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  top: 1px;
+  position: relative;
+}
+
+.icon-timer {
+  background-image: url('/icons/timer.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  position: relative;
+  float: left;
+}
+
+.icon-paper {
+  background-image: url('/icons/papers.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  position: relative;
+  float: left;
+}
+
+.icon-nav_assignments {
+  background-image: url('/icons/assignments.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  position: relative;
+  float: left;
+}
+
+.icon-nav_programs {
+  background-image: url('/icons/nav_programmes.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-nav_modules {
+  background-image: url('/icons/nav_modules.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-nav_home {
+  background-image: url('/icons/nav_home.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-nav_courses {
+  background-image: url('/icons/nav_courses.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-nav_topics {
+  background-image: url('/icons/nav_topics.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-nav_studyMaterial {
+  background-image: url('/icons/nav_studyMaterial.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-nav_assignments {
+  background-image: url('/icons/nav_assignments.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-nav_tests {
+  background-image: url('/icons/nav_tests.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-nav_students {
+  background-image: url('/icons/nav_students.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-nav_teachers {
+  background-image: url('/icons/nav_teachers.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-nav_roles {
+  background-image: url('/icons/nav_roles.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-hamburger {
+  background-image: url('/icons/hamburger.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-down-arrow {
+  background-image: url('/icons/down-arrow.svg');
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-checkbox {
+  background-image: url('/icons/checkbox.svg');
+  width: 40px;
+  height: 30px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
+
+.icon-avatar {
+  background-image: url('/icons/avatar.svg');
+  width: 67px;
+  height: 64px;
+  background-repeat: no-repeat;
+  top: 1px;
+  float: left;
+}
